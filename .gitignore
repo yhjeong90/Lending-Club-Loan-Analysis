@@ -1,6 +1,8 @@
 # Data files (too large for GitHub)
 data/
 temp/
+df_train_4.csv
+
 
 # Python
 __pycache__/
